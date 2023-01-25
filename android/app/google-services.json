@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20396824079",
+    "project_id": "com-cisolutions-theearth",
+    "storage_bucket": "com-cisolutions-theearth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20396824079:android:3d30783ec947bdc44bb57a",
+        "android_client_info": {
+          "package_name": "com.cisolutions.theearth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20396824079-2hf831qcjqhv2s418s1mci1sb7pqak3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cisolutions.theearth",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "20396824079-3k2c0u9ubt0vtr6fieog24p8dbcbuhom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUGRSbl6tMpVX21T5AcbiwXQpSIuzhXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20396824079-3k2c0u9ubt0vtr6fieog24p8dbcbuhom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
